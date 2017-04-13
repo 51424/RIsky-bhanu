@@ -1,50 +1,18 @@
 ﻿<?php
 $botPintar=array(
-"♥ Pakka SuPpoRting✌💓
-
-♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _Add Close _ _ _ _ ♥✌
-
-✌💓 Bhanu Prakash RJ 💓✌"
+""
 );
 
 $botNomer=array(
-"♥ Pakka SuPpoRting✌💓
-
-♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _Add Close _ _ _ _ ♥✌
-
-✌💓 Bhanu Prakash RJ 💓✌"
+""
 );
 
 $botPhoto=array(
-"♥ Pakka SuPpoRting✌💓
-
-♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _Add Close _ _ _ _ ♥✌
-
-✌💓 Bhanu Prakash RJ 💓✌"
+""
 );
 
 $botNormal=array(
-"♥ Pakka SuPpoRting✌💓
-
-♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
-
-♥✌_ _ _Add Close _ _ _ _ ♥✌
-
-✌💓 Bhanu Prakash RJ 💓✌"
+""
 );
 
 function getPower($nm,$tm,$tk){
@@ -52,7 +20,15 @@ $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 
-$site='';
+$site='♥ Pakka SuPpoRting✌💓
+
+♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _Add Close _ _ _ _ ♥✌
+
+✌💓 Bhanu Prakash RJ 💓✌';
 $true=$ops.'
  '.$site;
 
