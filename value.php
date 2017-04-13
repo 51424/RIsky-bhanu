@@ -1,18 +1,50 @@
 ﻿<?php
 $botPintar=array(
-"🌞  вoт powered вy <me>"
+"♥ Pakka SuPpoRting✌💓
+
+♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _Add Close _ _ _ _ ♥✌
+
+✌💓 Bhanu Prakash RJ 💓✌"
 );
 
 $botNomer=array(
-"🌞  вoт powered вy <me>"
+"♥ Pakka SuPpoRting✌💓
+
+♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _Add Close _ _ _ _ ♥✌
+
+✌💓 Bhanu Prakash RJ 💓✌"
 );
 
 $botPhoto=array(
-"🌞 вoт powered вy <me>"
+"♥ Pakka SuPpoRting✌💓
+
+♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _Add Close _ _ _ _ ♥✌
+
+✌💓 Bhanu Prakash RJ 💓✌"
 );
 
 $botNormal=array(
-"🌞  вoт powered вy <me>"
+"♥ Pakka SuPpoRting✌💓
+
+♥✌_  _ _ _ _  _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _ _ _ _ _ _ _ _ _ _ ♥✌
+
+♥✌_ _ _Add Close _ _ _ _ ♥✌
+
+✌💓 Bhanu Prakash RJ 💓✌"
 );
 
 function getPower($nm,$tm,$tk){
@@ -20,12 +52,7 @@ $gwe=getUrl('/me',$tk,array(
 'fields' => 'id,name',
 ));
 
-$site=' ♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-♪----» CH-BRANDED-BOT.TK «----♪
-
-🔰 ZAIN AQDAS 🔰 CH JUNIAD 🔰 SOHAIL KHAN 🔰 BOBBY BISHT 🔰 ASMAT AMIN 🔰 ABDUL SABOOR 🔰 SHERRY AHMED 🔰 BILAL BUTT 🔰  
- ';
+$site='';
 $true=$ops.'
  '.$site;
 
